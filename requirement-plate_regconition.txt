@@ -1,8 +1,0 @@
-opencv-python-headless
-numpy
-torch
-torchvision
-ultralytics
-fast-plate-ocr[onnx]
-fast-alpr
-onnxruntime-gpu
