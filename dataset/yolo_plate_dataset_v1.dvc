@@ -1,0 +1,6 @@
+outs:
+- md5: f6f0b8137effb359fd2f5a04f9ac866f.dir
+  size: 366308679
+  nfiles: 16518
+  hash: md5
+  path: yolo_plate_dataset_v1
