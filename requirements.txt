@@ -1,1 +1,1 @@
-dvc[ssh]
+dvc[ssh]==3.67.1 
