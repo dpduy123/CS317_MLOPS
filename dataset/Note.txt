@@ -1,0 +1,6 @@
+yolo_plate_dataset_v1: Chia dữ liệu thành 14 folder, sau đó chia đều theo tỉ lệ theo config:
+- train_ratio = 0.8
+- val_ratio = 0.1
+- test_ratio = 0.1
+- random.seed(42)
+
