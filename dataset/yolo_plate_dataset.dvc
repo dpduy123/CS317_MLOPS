@@ -3,4 +3,4 @@ outs:
   size: 366308679
   nfiles: 16518
   hash: md5
-  path: yolo_plate_dataset_v1
+  path: yolo_plate_dataset
