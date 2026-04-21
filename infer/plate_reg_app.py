@@ -5,10 +5,12 @@ from inference import ANPR
 
 app = FastAPI()
 
-model = ANPR("anpr_best.pt")
+debug=False
+
+model = ANPR(model_path="anpr_best.pt",debug=debug)
 
 
-@app.post("/infer")
+@app.post("/api/infer")
 async def infer(file: UploadFile = File(...)):
     contents = await file.read()
 

@@ -1,0 +1,9 @@
+infer/
+    �   .gitignore
+    �   anpr_best.pt
+    �   inference.py
+    �   infer_notebook.ipynb
+    �   plate_reg_app.py
+    �   requirements.txt
+    �   tree.txt
+Dockerfile
