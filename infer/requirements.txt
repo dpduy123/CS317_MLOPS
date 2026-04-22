@@ -1,0 +1,12 @@
+fastapi==0.136.0
+uvicorn== 0.44.0
+python-multipart==0.0.26
+
+numpy==2.4.4
+opencv-python==4.13.0.92
+
+torch==2.11.0
+ultralytics==8.4.40
+
+fast-plate-ocr[onnx]==1.1.0
+onnxruntime==1.24.4

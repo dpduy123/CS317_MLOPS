@@ -1,0 +1,6 @@
+infer/.venv/
+infer/test_imgs/
+infer/infer_notebook.ipynb
+
+infer/__pycache__/
+.git/
